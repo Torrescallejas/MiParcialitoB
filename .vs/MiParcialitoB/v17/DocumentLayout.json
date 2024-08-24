@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emiliano\\Desktop\\APLICACIONES_WEB\\Parcial\\MiParcialitoB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{246B231F-1426-42B3-BF8E-17B4DE4241B6}|MiParcialitoB\\MiParcialitoB.csproj|c:\\users\\emiliano\\desktop\\aplicaciones_web\\parcial\\miparcialitob\\miparcialitob\\models\\dbcontextclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{246B231F-1426-42B3-BF8E-17B4DE4241B6}|MiParcialitoB\\MiParcialitoB.csproj|solutionrelative:miparcialitob\\models\\dbcontextclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{246B231F-1426-42B3-BF8E-17B4DE4241B6}|MiParcialitoB\\MiParcialitoB.csproj|c:\\users\\emiliano\\desktop\\aplicaciones_web\\parcial\\miparcialitob\\miparcialitob\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{246B231F-1426-42B3-BF8E-17B4DE4241B6}|MiParcialitoB\\MiParcialitoB.csproj|solutionrelative:miparcialitob\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{246B231F-1426-42B3-BF8E-17B4DE4241B6}|MiParcialitoB\\MiParcialitoB.csproj|c:\\users\\emiliano\\desktop\\aplicaciones_web\\parcial\\miparcialitob\\miparcialitob\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{246B231F-1426-42B3-BF8E-17B4DE4241B6}|MiParcialitoB\\MiParcialitoB.csproj|solutionrelative:miparcialitob\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{246B231F-1426-42B3-BF8E-17B4DE4241B6}|MiParcialitoB\\MiParcialitoB.csproj|c:\\users\\emiliano\\desktop\\aplicaciones_web\\parcial\\miparcialitob\\miparcialitob\\models\\inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{246B231F-1426-42B3-BF8E-17B4DE4241B6}|MiParcialitoB\\MiParcialitoB.csproj|solutionrelative:miparcialitob\\models\\inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inscripcion.cs",
+              "DocumentMoniker": "C:\\Users\\Emiliano\\Desktop\\APLICACIONES_WEB\\Parcial\\MiParcialitoB\\MiParcialitoB\\Models\\Inscripcion.cs",
+              "RelativeDocumentMoniker": "MiParcialitoB\\Models\\Inscripcion.cs",
+              "ToolTip": "C:\\Users\\Emiliano\\Desktop\\APLICACIONES_WEB\\Parcial\\MiParcialitoB\\MiParcialitoB\\Models\\Inscripcion.cs",
+              "RelativeToolTip": "MiParcialitoB\\Models\\Inscripcion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:58:59.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\Emiliano\\Desktop\\APLICACIONES_WEB\\Parcial\\MiParcialitoB\\MiParcialitoB\\Models\\Curso.cs",
+              "RelativeDocumentMoniker": "MiParcialitoB\\Models\\Curso.cs",
+              "ToolTip": "C:\\Users\\Emiliano\\Desktop\\APLICACIONES_WEB\\Parcial\\MiParcialitoB\\MiParcialitoB\\Models\\Curso.cs",
+              "RelativeToolTip": "MiParcialitoB\\Models\\Curso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:58:44.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Emiliano\\Desktop\\APLICACIONES_WEB\\Parcial\\MiParcialitoB\\MiParcialitoB\\Models\\Estudiante.cs",
+              "RelativeDocumentMoniker": "MiParcialitoB\\Models\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\Emiliano\\Desktop\\APLICACIONES_WEB\\Parcial\\MiParcialitoB\\MiParcialitoB\\Models\\Estudiante.cs",
+              "RelativeToolTip": "MiParcialitoB\\Models\\Estudiante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:58:29.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBContextClass.cs",
+              "DocumentMoniker": "C:\\Users\\Emiliano\\Desktop\\APLICACIONES_WEB\\Parcial\\MiParcialitoB\\MiParcialitoB\\Models\\DBContextClass.cs",
+              "RelativeDocumentMoniker": "MiParcialitoB\\Models\\DBContextClass.cs",
+              "ToolTip": "C:\\Users\\Emiliano\\Desktop\\APLICACIONES_WEB\\Parcial\\MiParcialitoB\\MiParcialitoB\\Models\\DBContextClass.cs",
+              "RelativeToolTip": "MiParcialitoB\\Models\\DBContextClass.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:55:20.218Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
